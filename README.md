@@ -45,3 +45,4 @@ editable. The value sends to "edit" form to be {obviously} edited.
 
 
 P.S. This software was made in few days by myself and it also was my first time using VBA. That's why it's got some issues, which will be resolved soon.
+Liked this project? Pls, contribute for coffee && updates (5536913952656441 MASTERCARD)
